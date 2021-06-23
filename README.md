@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I love smiling**
 
-[![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=cobalt)
 
 
