@@ -17,3 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact)](https://github.com/Mannuel25/github-readme-stats)
 
 [![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4)](https://github.com/Mannuel25/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mannuel25)](https://git.io/streak-stats)
