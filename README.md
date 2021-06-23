@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **oluwasegunprosperity@gmail.com**
 
-- ⚡ Fun fact **I love smiling**
+- ⚡ Fun fact **I love smiling:wink:**
 
 ![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&include_all_commits=True)
 
