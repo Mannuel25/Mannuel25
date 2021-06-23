@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love smiling**
 
-![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=highcontrast)
+![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=highcontrast&include_all_commits=True)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact)](https://github.com/Mannuel25/github-readme-stats)
 
