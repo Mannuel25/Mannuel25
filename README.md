@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanimowo Emmanuel</h1>
+
 - 🔭 I'm currently working on **few projects and investing in myself**
 
 - 🌱 I’m currently learning **more on back end development**
