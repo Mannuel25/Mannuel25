@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanimowo Emmanuel</h1>
+<h1 align="Right">Hi 👋, I'm Tanimowo Emmanuel</h1>
 
 - 🔭 I'm currently working on **few projects and investing in myself**
 
