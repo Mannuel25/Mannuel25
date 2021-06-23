@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25)](https://github.com/Mannuel25/github-readme-stats)
 
-[![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel25)](https://github.com/Mannuel25/github-readme-stats)
+[![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel)](https://github.com/Mannuel/github-readme-stats)
