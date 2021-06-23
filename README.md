@@ -14,7 +14,7 @@
 
 ![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&include_all_commits=True)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&title_color=007bff&text_color=#00FFD2&icon_color=007bff&bg_color=171c28)
 )
 )](https://github.com/Mannuel25/github-readme-stats)
 
