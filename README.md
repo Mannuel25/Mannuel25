@@ -25,4 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannuel25&" alt="mannuel25" /></p>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mannuel25&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
