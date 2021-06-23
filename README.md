@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannuel25&show_icons=true&locale=en&layout=compact" alt="mannuel25" /></p>
 
-![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=gruvbox)
+![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=cobalt)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannuel25&" alt="mannuel25" /></p>
 
