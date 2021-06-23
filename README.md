@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Tanimowo Emmanuel</h1>
 - 🔭 I’m currently working on **a few projects and investing in myself**
 
