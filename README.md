@@ -9,6 +9,7 @@
 - 💬 Ask me about **myself and what I do**
 
 - 📫 How to reach me **oluwasegunprosperity@gmail.com**
+- ✒ I blog at [Hashnode](https://hashnode.com/@Mannuel)
 
 - ⚡ Fun fact **I love smiling**
 
