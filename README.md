@@ -23,7 +23,7 @@
 </a> </p>
 
 <h3 align="left">My Stats:</h3>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mannuel25&theme=tokyonight)](https://git.io/streak-stats)
 ![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
