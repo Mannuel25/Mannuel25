@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **more on back end development**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate more on **open source projects**
 
 - 💬 Ask me about **myself and what I do**
 
