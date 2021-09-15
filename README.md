@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on **few projects and investing in myself**
 
-- 🌱 I’m currently learning **more on back end development**
+- 🌱 I’m currently learning Django
 
 - 👯 I’m looking to collaborate more on **open source projects**
 
