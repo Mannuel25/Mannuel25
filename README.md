@@ -34,5 +34,5 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mannuel25&theme=tokyonight)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=mannuel25&color=blue)
+![Visitor Count](https://profile-counter.glitch.me/{mannuel25}/count.svg)
 
