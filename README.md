@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **oluwasegunprosperity@gmail.com**
 
-- ❤️ I love contributing to **Open Source** as much as I can
+- ❤️ As much as I can, I enjoy contributing to **Open Source**
 
 - ✒ I blog at [Hashnode](https://hashnode.com/@Mannuel)
 
