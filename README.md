@@ -1,6 +1,6 @@
 <h1 align="Left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Emmanuel Tanimowo</h1>
 
-- 🔭 I'm currently working on **few projects and investing in myself**
+- 🔭 I'm currently working on **[a project](https://github.com/Mannuel25/Cheqqit) and investing in myself**
 
 - 🌱 I’m currently learning **Django**
 
