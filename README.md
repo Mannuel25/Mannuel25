@@ -24,11 +24,10 @@
 
 <h3 align="left">My Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
-](https://github.com/Mannuel25/github-readme-stats)
+![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
-[![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)](https://github.com/Mannuel25/github-readme-stats)
-
+![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)
 
 ![](https://komarev.com/ghpvc/?username=mannuel25&color=green)
