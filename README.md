@@ -30,6 +30,5 @@
 
 [![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)](https://github.com/Mannuel25/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mannuel25&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=mannuel25&color=green)
