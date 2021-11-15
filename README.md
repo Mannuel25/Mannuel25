@@ -7,9 +7,6 @@
 - 👯 I’m looking to collaborate more on **open source projects**
 
 - 💬 Ask me about **myself and what I do**
-
-- 📫 How to reach me **oluwasegunprosperity@gmail.com**
-
 - ❤️ As much as I can, I enjoy contributing to **Open Source**
 
 - ✒ I blog at [Hashnode](https://hashnode.com/@Mannuel)
@@ -20,7 +17,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/emmanuel-tanimowo-6122291aa"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/ width="40" height="40"></a>
   <a href="https://twitter.com/emma_tanimowo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" / width="40" height="40"></a>
+  <a href="mailto:oluwasegunprosperity@gmail.com" alt="contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg" width="45" height="45"></a>
  </p>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
