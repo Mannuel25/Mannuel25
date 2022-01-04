@@ -1,10 +1,10 @@
 <h1 align="Left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Emmanuel Tanimowo</h1>
 
-- 🔭 I'm currently working on **[a project](https://github.com/Mannuel25/Cheqqit) and investing in myself**
+- 🔭 I'm currently learning Django and working on **[a project](https://github.com/Mannuel25/Cheqqit)**
 
-- 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate more on **open source projects**
+
+- 👯 I’m looking to collaborate more on **projects**
 
 - 💬 Ask me about **myself and what I do**
 - ❤️ As much as I can, I enjoy contributing to **Open Source**
