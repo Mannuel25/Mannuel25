@@ -39,4 +39,8 @@
 
 ![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)
 
+### My Articles
+- [Handling Exceptions In Python](https://mannuel.hashnode.dev/handling-exceptions-in-python-ckw9hsw7l0itoiks12h4aaxwn)
+- [Importing Modules In Python](https://hashnode.com/post/importing-modules-in-python-ckrnmfkmc0e24fws1d3xm3tf5)
+
 ![](https://komarev.com/ghpvc/?username=mannuel25&color=green)
