@@ -38,7 +38,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
-![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)
+[![Mannuel's Wakatime stats](https://wakatime.com/badge/user/967085bc-ec72-45c1-8145-10d00b164165.svg)](https://wakatime.com/@967085bc-ec72-45c1-8145-10d00b164165)
 
 ## My Articles 📝
 - [Handling Exceptions In Python](https://mannuel.hashnode.dev/handling-exceptions-in-python-ckw9hsw7l0itoiks12h4aaxwn)
