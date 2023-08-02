@@ -40,6 +40,8 @@
 
 ![Mannuel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mannuel&layout=compact&langs_count=4&bg_color=171c28&text_color=00FFD2)
 
+[![Mannuel25's GitHub | Stats](https://stats.quine.sh/Mannuel25/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Mannuel25)
+
 ## My Articles 📝
 - [Handling Exceptions In Python](https://mannuel.hashnode.dev/handling-exceptions-in-python-ckw9hsw7l0itoiks12h4aaxwn)
 - [Importing Modules In Python](https://hashnode.com/post/importing-modules-in-python-ckrnmfkmc0e24fws1d3xm3tf5)
