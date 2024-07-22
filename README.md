@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain-wordmark.svg"width="50" height="50" />
   <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
@@ -40,7 +41,7 @@
 
 ## My Stats
 
-![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Mannuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mannuel25&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&exclude_repo=null)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannuel25&layout=compact&text_color=00FFD2&icon_color=007bff&bg_color=171c28)
 
