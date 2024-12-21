@@ -7,6 +7,7 @@
 
 - 🚧 Open-Source Maintainer at [CommunityPro](https://github.com/CommunityPro)
 - ❤️ As much as I can, I enjoy contributing to **Open Source**
+- 🧑‍💻 I'm currently learning **Go**
 - 👯 I’m looking to collaborate more on **projects**
 - 💬 Ask me about **myself and what I do**
 - ⚡ Fun fact **I love smiling** 😁
