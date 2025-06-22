@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back-end+Developer;Open%20Source&center=true&width=640&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Open%20Source&center=true&width=640&height=45"></a>
 </p> 
 
 - 🚧 Open-Source Maintainer at [CommunityPro](https://github.com/CommunityPro)
